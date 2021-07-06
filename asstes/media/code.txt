@@ -1,0 +1,30 @@
+<!-- MY RECIPIES  -->
+    <section>
+        <div class="recipies">
+            <div class="RECIP-col">
+                
+            </div> 
+            <div class="RECIP-col">
+                
+            </div> 
+            <div class="RECIP-col">
+                
+            </div> 
+            <div class="RECIP-col">
+                
+            </div> 
+            <div class="RECIP-col">
+                
+            </div> 
+            <div class="RECIP-col">
+                
+            </div> 
+            <div class="RECIP-col">
+                
+            </div> 
+            <div class="RECIP-col">
+                
+            </div> 
+        </div>
+
+    </section>
